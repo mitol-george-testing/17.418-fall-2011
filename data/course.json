@@ -1,0 +1,25 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "fcc95998-e4af-7081-5b80-258d7ea4878e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Field Seminar: International Relations Theory",
+  "course_description": "This seminar provides an overview of the field of international relations. Each week, a different approach to explaining international relations will be examined. By surveying major concepts and theories in the field, the seminar will also assist graduate students in preparing for the comprehensive examination and further study in the department's more specialized offerings in international relations.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.418",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
